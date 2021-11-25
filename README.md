@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Muhamad Ilyas**
 
-Saya Sedang menempuh pendidikan Di Unisnu Jepara
+Saya Sedang menempuh pendidikan Di Unisnu Jepara, Dan Saat ini mengikuti Studi Independen Machine Learning dan Front-End di Dicoding
 
 ### Github Statistic
 <p align="left">
